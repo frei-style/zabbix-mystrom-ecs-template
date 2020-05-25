@@ -11,6 +11,9 @@
         <template>
             <template>HW myStrom ECS</template>
             <name>HW myStrom ECS</name>
+            <description>Monitoring template for myStrom ECS (Energy Control Switch).&#13;
+&#13;
+Source: https://github.com/frei-style/zabbix-mystrom-ecs-template</description>
             <groups>
                 <group>
                     <name>Templates</name>
